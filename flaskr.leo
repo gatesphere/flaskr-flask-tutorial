@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20130208092851.1374" a="E"><vh>Flaskr code</vh>
+<v t="peckj.20130208092851.1374"><vh>Flaskr code</vh>
 <v t="peckj.20130208092851.1397" a="E"><vh>@path flaskr</vh>
 <v t="peckj.20130208092851.1375" a="E"><vh>Database schema</vh>
 <v t="peckj.20130208092851.1376"><vh>@file schema.sql</vh></v>
@@ -29,6 +29,7 @@ expanded="peckj.20130208092851.1384,peckj.20130208092851.1387,"><vh>@file flaskr
 </v>
 </v>
 </v>
+<v t="peckj.20130208092851.1402" a="E"><vh>@file README.md</vh></v>
 </vnodes>
 <tnodes>
 <t tx="peckj.20130208092851.1374"></t>
